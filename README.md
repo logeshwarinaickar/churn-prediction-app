@@ -82,7 +82,7 @@ streamlit run app.py
 
 ---
 
-# CUSTOMER CHURN PREDICTION APP
+
 
 ## 📁 Project Structure
 
