@@ -52,25 +52,39 @@ The model uses customer attributes such as:
 
 ---
 
-## 📦 Installation & Setup
+## ▶️ Run Locally
 
-### 1. Clone the repository
+Clone the repository:
+
 ```bash
 git clone  https://github.com/logeshwarinaickar/churn-prediction-app.git
-### 2. Navigate to project folder
+```
+
+Go to project folder:
+
 ```bash
-cd CUSTOMER CHURN
-### 3. Install dependencies
+cd CUSTOMER-CHURN
+```
+
+Install dependencies:
+
 ```bash
 pip install -r requirements.txt
-### 4. Run Streamlit app
+```
+
+Run the app:
+
 ```bash
 streamlit run app.py
+```
+
+
 
 ---
 
 ## 📁 Project Structure
 
+```text
 CUSTOMER CHURN/
 ├── app.py
 ├── churn_model.pkl
@@ -78,8 +92,11 @@ CUSTOMER CHURN/
 └── README.md
 
 ---
-🌐 Live Demo
+
+## 🌐 Live Demo
+
 https://churn-prediction-appgit-kaka82rxbcyjnyvvlya45v.streamlit.app/
+
 ---
 
 ## 📈 Model Performance
