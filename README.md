@@ -92,8 +92,7 @@ CUSTOMER CHURN/
 ├── churn_model.pkl
 ├── requirements.txt
 └── README.md
-
-
+```
 ---
 
 ## 🌐 Live Demo
