@@ -58,10 +58,13 @@ The model uses customer attributes such as:
 ```bash
 git clone  https://github.com/logeshwarinaickar/churn-prediction-app.git
 ### 2. Navigate to project folder
+```bash
 cd CUSTOMER CHURN
 ### 3. Install dependencies
+```bash
 pip install -r requirements.txt
-### Run Streamlit app
+### 4. Run Streamlit app
+```bash
 streamlit run app.py
 
 ---
