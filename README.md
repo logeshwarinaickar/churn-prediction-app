@@ -82,28 +82,31 @@ streamlit run app.py
 
 ---
 
+# CUSTOMER CHURN PREDICTION APP
+
 ## 📁 Project Structure
 
-```text
+```bash
 CUSTOMER CHURN/
 ├── app.py
 ├── churn_model.pkl
 ├── requirements.txt
 └── README.md
 
+
 ---
 
 ## 🌐 Live Demo
 
-https://churn-prediction-appgit-kaka82rxbcyjnyvvlya45v.streamlit.app/
+👉 https://churn-prediction-appgit-kaka82rxbcyjnyvvlya45v.streamlit.app/
 
 ---
 
 ## 📈 Model Performance
 
-- Model Used: Logistic Regression  
-- Accuracy: ~78–79%  
-- Evaluation Metrics: Precision, Recall, F1-score  
+- **Model Used:** Logistic Regression  
+- **Accuracy:** ~78–79%  
+- **Evaluation Metrics:** Precision, Recall, F1-score  
 
 ---
 
